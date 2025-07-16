@@ -1,0 +1,42 @@
+# === Python-related ===
+__pycache__/
+*.py[cod]
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Virtual environment ===
+venv/
+env/
+ENV/
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Logs and temp files ===
+*.log
+*.tmp
+
+# === Results ===
+results/*.mp4
+results/*.avi
+results/*.mov
+results/*.png
+results/*.jpg
+results/*_results/ 
+
+# === IDEs and editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === Archivo de memoria PDF ===
+# TFG_Memoria_Alejandro_Hernandez_Herrera.pdf
